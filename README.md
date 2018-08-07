@@ -1,2 +1,2 @@
-# My-Note REST API backend with our Serverless
+# My-Note REST API backend with Serverless
 
